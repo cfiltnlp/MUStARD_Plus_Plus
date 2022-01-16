@@ -15,3 +15,5 @@ Our multimodal dataset consists of dialogs from sit-coms each of which is presen
 | Valence           | Level of pleasantness (1-9)                           |
 | Arousal           | Level of perceived intensity  (1-9)                   |
 
+
+The textual transcipts of this data with the associated annotations is made available in the form of a csv file uploaded in the repo. To access the videos associated with the utterances and their corresponding contexts, visit this [link](https://drive.google.com/drive/folders/1kUdT2yU7ERJ5KdauObTj5oQsBlSrvTlW?usp=sharing).
