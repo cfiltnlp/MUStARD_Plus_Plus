@@ -10,7 +10,7 @@ Our multimodal dataset consists of dialogs from sit-coms each of which is presen
 | Sarcasm           | 0 or 1 indicating presence or absence of sarcasm                | 
 | Sarcasm_Type      | If sarcastic, indicates the type of sarcasm else None           |
 | Implicit_Emotion  | The perceived hidden emotion associated with an instance        |
-| Explicit_Emotion  | The surfact emotion associated with an instance                 |
+| Explicit_Emotion  | The surface emotion associated with an instance                 |
 | Valence           | Level of pleasantness (1-9)                                     | 
 | Arousal           | Level of perceived intensity  (1-9)                             |
 
